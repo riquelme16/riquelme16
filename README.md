@@ -3,7 +3,7 @@
 - # editando perfil
 ### teste
 
-- **olá, eu sou @pablo
-riquelme16/riquelme16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **olá, eu sou @pabloriquelme**
+- :+1:O meu email é [e-mail](pablo.riquelmiandrade.silva@escola.pr.gov.br)
+- :+1: eu estou interessado em aprender novas linguagens de programação
+- 👀 eu estou interessado em aprender novas linguagens de programação
